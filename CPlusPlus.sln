@@ -7,8 +7,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PR 12-13", "PR 12-13\PR 12-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PR 14-15", "PR 14-15\PR 14-15.vcxproj", "{CD5A76DA-C40C-4EC8-BC26-EDC79DDFCAC6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PR 16-17", "PR 16-17\PR 16-17.vcxproj", "{6451F315-FAFB-4EEB-9C4C-7120A92A63DB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
